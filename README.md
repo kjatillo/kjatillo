@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kjatillo
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java 11+ SE, Python 3 and HTML/CSS with Bootstrap 4
+- 🌱 I’m currently studying Computing with Software Development
 - 💞️ I’m not doing collaborations at the moment
 - 📫 However you can reach me through keneithatillo@gmail.com
 
