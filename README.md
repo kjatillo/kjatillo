@@ -3,17 +3,17 @@
  ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 - 👋 Hi, my friends call me Ken
-- 👀 I’m seeking internship opportunities in software development
-- 🎓 I'm a 3rd year student studying Computing with Software Development at [Technological University Dublin](https://www.tudublin.ie/study/undergraduate/courses/computing-general-entrytu859/)
-- 🌱 I’m currently learning `C++`, `Node.js` and `MongoDB`
+- 👀 I’m seeking for a permanent role in software development after my 2025 graduation
+- 🎓 I'm a 3rd year student studying Computing with Software Development at [Technological University Dublin](https://www.tudublin.ie/study/undergraduate/courses/computing-with-software-development/?keywords=computing&courseType=)
+- 🌱 I’m currently learning `C#`, `.NET`, `Angular JS` and `TypeScript`
 - 🏡 I'm located in Dublin, Ireland
 
 ### Tech Stack
 #### I'm competent in:
-[![My Skills](https://skillicons.dev/icons?i=python,java,html,css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,django,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,django,git,visualstudio)](https://skillicons.dev)
 #### Just started learning:
-[![My Skills](https://skillicons.dev/icons?i=cpp,nodejs,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,angular,ts)](https://skillicons.dev)
 
 
 ### Connect with me
