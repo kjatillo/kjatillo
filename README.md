@@ -5,7 +5,7 @@
 - 👋 Hi, my friends call me Ken
 - 👀 I’m seeking for a permanent role in software development after my 2025 graduation
 - 🎓 I'm a 3rd year student studying Computing with Software Development at [Technological University Dublin](https://www.tudublin.ie/study/undergraduate/courses/computing-with-software-development/?keywords=computing&courseType=)
-- 🌱 I’m currently learning `C#`, `.NET`, `Angular JS` and `TypeScript`
+- 🌱 I’m currently learning `C#`, `.NET`, and `Angular`
 - 🏡 I'm located in Dublin, Ireland
 
 ### Tech Stack
@@ -13,7 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,html,css)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,django,git,visualstudio)](https://skillicons.dev)
 #### Just started learning:
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,angular,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,angular)](https://skillicons.dev)
 
 
 ### Connect with me
