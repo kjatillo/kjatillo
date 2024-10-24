@@ -4,7 +4,7 @@
 
 - 👋 Hi, my friends call me Ken
 - 👀 I’m seeking for a permanent role in software development after my 2025 graduation
-- 🎓 I'm a 3rd year student studying Computing with Software Development at [Technological University Dublin](https://www.tudublin.ie/study/undergraduate/courses/computing-with-software-development/?keywords=computing&courseType=)
+- 🎓 I'm a 4th year student studying Computing with Software Development at [Technological University Dublin](https://www.tudublin.ie/study/undergraduate/courses/computing-with-software-development/?keywords=computing&courseType=)
 - 🌱 I’m currently learning `C#`, `.NET`, and `Angular`
 - 🏡 I'm located in Dublin, Ireland
 
