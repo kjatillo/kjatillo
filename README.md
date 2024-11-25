@@ -10,8 +10,7 @@
 
 ### Tech Stack
 #### I'm competent in:
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,html,css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,django,git,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,html,css,bootstrap)](https://skillicons.dev)
 #### Just started learning:
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,angular)](https://skillicons.dev)
 
