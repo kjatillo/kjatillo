@@ -15,9 +15,9 @@
 </div>
 
 ### About Me
-- 👀 I’m seeking for a permanent role in Software Development after my 2025 graduation
-- 🎓 I'm a 4th year student studying Computing with Software Development at [Technological University Dublin](https://www.tudublin.ie/study/undergraduate/courses/computing-with-software-development/?keywords=computing&courseType=)
-- 🌱 I’m currently learning `C#`, `.NET`, and `Angular`
+- 👀 I’m seeking for a permanent entry-level role in Software Development
+- 🎓 I'm a recent graduate in Computing with Software Development at [Technological University Dublin](https://www.tudublin.ie/study/undergraduate/courses/computing-with-software-development/?keywords=computing&courseType=)
+- 🌱 I’m currently learning `C#`, `.NET` and `Angular`
 - 🏡 I'm located in Dublin, Ireland
 
 ### Tech Stack
